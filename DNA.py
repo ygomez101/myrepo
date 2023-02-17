@@ -1,3 +1,4 @@
+hi
 s = open('rosalind_dna.txt','r').read()
 a = s.count("A")
 c = s.count("C")
